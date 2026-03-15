@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Demessmer 👋
 
-<!--
-**2messmer/2messmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Engineering Student at the National Advanced School of Engeneering of Younde (ENSPY).
 
-Here are some ideas to get you started:
+## Technologies
+- Python
+- C / C++
+- Data Analysis (R)
+- Git & Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Learning UI development with Flet
+- Building structured Python applications
+- Exploring cybersecurity and systems programming
+
+## Featured Projects
+
+### Flet-TimeForge
+Learning project exploring UI development with Flet.
+
+### CarData-Analysis-R
+Statistical analysis of the MplsDemo dataset using R.
+
+### DietTrack
+Daily calorie tracker written in C.
+
+---
+
+Always learning, building and improving.
